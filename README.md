@@ -284,22 +284,22 @@ Example Usage
 from Gjirafa50 import Gjirafa50APIClient
 
 # Initialize the client
-client = Gjirafa50APIClient("http://127.0.0.1:8000", "your_api_key")
+gjirafa50 = Gjirafa50APIClient("http://127.0.0.1:8000", "your_api_key")
 
 # Search for products
-client.search(pagenumber=1, orderby="10", q="laptop asus gaming", formatted=True)
+gjirafa50.search(pagenumber=1, orderby="10", q="laptop asus gaming", formatted=True)
 
 # Get product details
-client.productdetails(product_url="https://example.com/product", formatted=True)
+gjirafa50.productdetails(product_url="https://example.com/product", formatted=True)
 
 # Fetch categories
-client.fetch_categories(formatted=True)
+gjirafa50.fetch_categories(formatted=True)
 
 # Retrieve banners
-client.banners(formatted=True)
+gjirafa50.banners(formatted=True)
 
 # Fetch happy hour products
-client.happy_hours(formatted=True)
+gjirafa50.happy_hours(formatted=True)
 ```
 
 ## Conclusion
