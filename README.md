@@ -19,9 +19,42 @@ Welcome to the Gjirafa50 API documentation! Here, you'll find everything you nee
 
 Our API provides access to a wide range of functionalities related to product search, retrieval, and categorization. With easy-to-use endpoints and comprehensive documentation, developers can integrate our API seamlessly into their applications.
 
+
+
+## Setup
+
+To use the Gjirafa50 API in your project, follow these steps:
+
+1. Clone the repository to your local machine or server:
+   ```bash
+   git clone https://github.com/slumbersage/gjirafa50.git
+   ```
+
+2. Navigate to the project directory:
+   ```bash
+   cd gjirafa50
+   ```
+
+3. Install the required packages using pip:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. Obtain your API key and add it to the `valid_api_keys.json` file.
+
+5. Start the API server:
+   ```bash
+   uvicorn mainapi:app --reload
+   ```
+
+
+
+
 ## Authentication
 
 To access our API, you need to provide an API key in the headers of your requests. Without a valid API key, access will be denied.
+
+You can go to to the file ``valid_api_keys.json`` to add a key 
 
 ## Endpoints
 
