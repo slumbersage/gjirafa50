@@ -5,15 +5,16 @@ Welcome to the Gjirafa50 API documentation! Here, you'll find everything you nee
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. [Authentication](#authentication)
-3. [Endpoints](#endpoints)
+2. [Setup](#setup)
+3. [Authentication](#authentication)
+4. [Endpoints](#endpoints)
     - [Search Products](#search-products)
     - [Get Product Details](#get-product-details)
     - [Fetch Categories](#fetch-categories)
     - [Retrieve Banners](#retrieve-banners)
     - [Happy Hours](#happy-hours)
-4. [Example Usage](#example-usage)
-5. [Conclusion](#conclusion)
+5. [Example Usage](#example-usage)
+6. [Conclusion](#conclusion)
 
 ## Introduction
 
