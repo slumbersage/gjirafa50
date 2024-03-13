@@ -14,7 +14,8 @@ Welcome to the Gjirafa50 API documentation! Here, you'll find everything you nee
     - [Retrieve Banners](#retrieve-banners)
     - [Happy Hours](#happy-hours)
 5. [Example Usage](#example-usage)
-6. [Conclusion](#conclusion)
+6. [Disclaimer](#disclaimer)
+7. [Conclusion](#conclusion)
 
 [![Discord](https://img.shields.io/discord/1200531052876275806?style=for-the-badge&logo=discord&logoColor=white&label=join%20our%20discord%20server&labelColor=%23493748&color=white)
 ](https://discord.gg/6SQ5HfaMsp)
@@ -301,6 +302,15 @@ gjirafa50.banners(formatted=True)
 # Fetch happy hour products
 gjirafa50.happy_hours(formatted=True)
 ```
+
+## Disclaimer
+
+This API documentation and related code repository are created and maintained by Altin. This project is not affiliated with or endorsed by Gjirafa50. It is a personal project developed for educational and demonstration purposes.
+
+Please note that while efforts have been made to ensure the accuracy and reliability of the information provided in this documentation, altin/slumbersage cannot guarantee its completeness or correctness. Users are encouraged to exercise caution and verify the information independently.
+
+For any inquiries or concerns regarding this project, please contact via email altinbb2@gmail.com.
+
 
 ## Conclusion
 
