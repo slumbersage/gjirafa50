@@ -259,9 +259,9 @@ async def get_product_details(product_url: str):
 
 def is_valid_url(url):
     """
-    Checks if the given string is a valid URL.
+    Checks if the given string is a valid URL for gjirafa50 website.
     """
-    return re.match(r"https?://(?:www\.)?[\w.-]+(?:\.[a-zA-Z]{2,}){1,3}[\w\.-]*", url) is not None
+    return re.match(r"https?://(?:www\.)?[\w.-]*gjirafa50\.(?:com|mk|al)(?:/[^\s]*)?", url) is not None
 
 def extract_delivery_times(soup):
     """
