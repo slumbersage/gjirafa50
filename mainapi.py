@@ -69,8 +69,8 @@ class Product(BaseModel):
 
 # Model for scraped data
 class ScrapeResult(BaseModel):
-    total_pages: str
-    views: str
+    total_pages: int # update this to integer data type
+    views: int # same for this, updated to int data type
     products: List[Product]
 
 # Function to scrape website (omitted for brevity)
