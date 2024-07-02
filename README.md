@@ -17,8 +17,6 @@ Welcome to the Gjirafa50 API documentation! Here, you'll find everything you nee
 6. [Disclaimer](#disclaimer)
 7. [Conclusion](#conclusion)
 
-[![Discord](https://img.shields.io/discord/1200531052876275806?style=for-the-badge&logo=discord&logoColor=white&label=join%20our%20discord%20server&labelColor=%23493748&color=white)
-](https://discord.gg/6SQ5HfaMsp)
 ## Introduction
 
 Our API provides access to a wide range of functionalities related to product search, retrieval, and categorization. With easy-to-use endpoints and comprehensive documentation, developers can integrate our API seamlessly into their applications.
@@ -314,9 +312,7 @@ For any inquiries or concerns regarding this project, please contact via email a
 
 ## Conclusion
 
-With this documentation, you're now equipped to use the Gjirafa50 API in your projects. If you have any questions or need further assistance, feel free to join our Discord server:
+With this documentation, you're now equipped to use the Gjirafa50 API in your projects
 
-[![Discord](https://img.shields.io/discord/1200531052876275806?style=for-the-badge&logo=discord&logoColor=white&label=join%20our%20discord%20server&labelColor=%23493748&color=white)
-](https://discord.gg/6SQ5HfaMsp)
 
 Happy coding! 💻🎉
